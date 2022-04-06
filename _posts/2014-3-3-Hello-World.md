@@ -1,7 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: Windows & Active Directory Exploitation Cheat Sheet and Command Reference
 published: true
 ---
-# This is your first blog with Jekyll
-## Congratulations 
